@@ -25,6 +25,5 @@ Finally, we tested these factors out by building 3 models, namely - **Logistic R
 - `matplotlib`
 - `seaborn`
 - `sklearn`
-<br>
-<br>
+
 Original dataset can be found [here](https://www.kaggle.com/c/diabetes-classification/data).
