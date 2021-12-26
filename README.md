@@ -4,6 +4,8 @@
 - [Cheah King Yeh](https://www.linkedin.com/in/king-yeh-cheah/)
 - [Yuen Kah May](https://www.linkedin.com/in/kah-may-yuen/)
 
+To view the project live, please click on this link [here](https://share.streamlit.io/xbowery/diabetes-classifier/main/diabetes_predictor.py).
+
 ## Description
 Our project aims to identify and understand the factors that causes diabetes (our dependent variable) and be able to develop a sound method to predict whether a person is suffering from diabetes based on the different parameters and factors given to us. We first start off with data collection from a given dataset which contains information about potential factors that causes diabetes including `age`, `glucose_concentration` and `blood_pressure`. 
 
